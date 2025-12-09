@@ -25,25 +25,44 @@ The program uses a recursive method to find the LIS ending at each position by c
 •	First, install the JDK (Java Development Kit).
 
 •	You can download it from the Oracle website.
+
 •	Check if the installation was successful by typing `java -version` in the terminal.
+
 •	Save your code in a file with a `.java` extension.
+
 •	The name of the file should match the name of the class.
+
 •	For example, if your class is called `LibrarySystem`, the file should be named `LibrarySystem.java`.
+
 •	Open the Terminal or Command Prompt.
+
 •	Go to the folder where your file is saved.
+
 •	For example, on Windows, you can use `cd Desktop\JavaProjects`, and on Mac or Linux, use `cd Desktop/JavaProjects`.
+
 •	Compile your Java code using the `javac` command.
+
 •	For a single file, type `javac FileName.java`.
-•	If you have multiple files, like in a project named `Library System`, use `javac *.
-•	java`.
+
+•	If you have multiple files, like in a project named `Library System`, use `javac *.java`.
+
 •	Run the program using the `java` command followed by the class name.
+
 •	For example, type `java LibrarySystem` or `java Calculations_handle`.
+
 •	The program will start running.
+
 •	if it's a calculator, a menu will appear.
+
 •	If it's a library system, options will be shown.
+
 •	Features like word frequency, brackets, and LIS will display results right away.
+
 •	If there are any errors shown in the terminal, fix them.
+
 •	Common issues include missing semicolons, wrong file names, or mismatched class names.
+
 •	After making any changes to your code, recompile it by running `javac` again.
+
 •	Before running the program, always use `java ClassName` when you're ready.
 

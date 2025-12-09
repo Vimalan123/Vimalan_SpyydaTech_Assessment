@@ -1,4 +1,4 @@
-Short Description of Logic Implemented in the Project
+**Short Description of Logic Implemented in the Project**
 
 This project includes several small but meaningful programs that show different ways of solving problems and using computational methods.
 Each program has a specific purpose, such as doing math, managing data, working with strings, checking if expressions are valid, and recognizing patterns. Even though each program is different, they all follow the same general steps: getting input from the user or the system, using clear rules to process that input, keeping data organized as needed, and giving the correct result. These programs help explain key programming ideas like object-oriented design, recursive solutions, checking expressions using stacks, using hash tables, handling files, and dynamic programming.
@@ -20,3 +20,29 @@ It uses a stack, a common data structure. As it goes through each character, ope
 
 The Longest Increasing Subsequence (LIS) program finds the length of the longest sequence in an array where each number is higher than the one before it.
 The program uses a recursive method to find the LIS ending at each position by checking all earlier positions. While this method isn’t the most efficient, it clearly shows how to use recursion and build solutions from smaller parts. More efficient approaches like dynamic programming or binary search exist, but the recursive method is useful for explaining the idea of breaking problems into smaller solutions.
+
+    	**Steps to Run Java Programs**
+•	First, install the JDK (Java Development Kit).
+•	You can download it from the Oracle website.
+•	Check if the installation was successful by typing `java -version` in the terminal.
+•	Save your code in a file with a `.java` extension.
+•	The name of the file should match the name of the class.
+•	For example, if your class is called `LibrarySystem`, the file should be named `LibrarySystem.java`.
+•	Open the Terminal or Command Prompt.
+•	Go to the folder where your file is saved.
+•	For example, on Windows, you can use `cd Desktop\JavaProjects`, and on Mac or Linux, use `cd Desktop/JavaProjects`.
+•	Compile your Java code using the `javac` command.
+•	For a single file, type `javac FileName.java`.
+•	If you have multiple files, like in a project named `Library System`, use `javac *.
+•	java`.
+•	Run the program using the `java` command followed by the class name.
+•	For example, type `java LibrarySystem` or `java Calculations_handle`.
+•	The program will start running.
+•	if it's a calculator, a menu will appear.
+•	If it's a library system, options will be shown.
+•	Features like word frequency, brackets, and LIS will display results right away.
+•	If there are any errors shown in the terminal, fix them.
+•	Common issues include missing semicolons, wrong file names, or mismatched class names.
+•	After making any changes to your code, recompile it by running `javac` again.
+•	Before running the program, always use `java ClassName` when you're ready.
+

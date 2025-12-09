@@ -23,6 +23,7 @@ The program uses a recursive method to find the LIS ending at each position by c
 
     	**Steps to Run Java Programs**
 •	First, install the JDK (Java Development Kit).
+
 •	You can download it from the Oracle website.
 •	Check if the installation was successful by typing `java -version` in the terminal.
 •	Save your code in a file with a `.java` extension.
